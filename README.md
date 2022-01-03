@@ -1,4 +1,4 @@
-# Harlley Oliveira - Frontend Engineer | harlley+hire-me@gmail.com
+# Harlley Oliveira - Frontend Engineer
 
 I started my career in 2002 as an Intern, developing new features on a web application using HTML, CSS, Javascript, ASP 3.0, and SQL Server for an IBM partner in Brazil. After that, I worked in a software house, developing many different web applications using technologies like HTML, CSS, Javascript, ASP.net, C#, SQL Server, and PHP for a big telecommunication company. 
 
