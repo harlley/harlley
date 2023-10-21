@@ -10,7 +10,7 @@ I have been working as a software developer since 2002, and have experience with
 Issuu is the world’s leading Omni-channel content tool and publishing platform. It enables millions of global marketers, brands, creators, and publishers to digitally share and monetize their longer-form quality content and create content marketing materials.
 
 ##### Integrations Engineering team
-- [x] Successfully integrated the Issuu Open API with third-party partners, Canva and Adobe.
+- [x] Successfully integrated the Issuu Open API with third-party partners, [Canva](https://www.youtube.com/watch?v=aC_48bDY4_I) and [Adobe](https://www.youtube.com/watch?v=HEyjqOuoijw).
 - [x] Expertise in OAuth authentication, ensuring data security and privacy while enabling smooth data exchange between platforms.
 - [x] Proficiency in React and TypeScript, enabling the development of dynamic and responsive web applications tailored to the specific design systems of partners.
 - [x] Utilized Storybook to streamline UI component development, resulting in faster iterations.
