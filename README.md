@@ -1,12 +1,6 @@
-# Harlley Oliveira - Software Engineer
+# Harlley Oliveira - Frontend Engineer
 
-I started my career in 2002 as an Intern, developing new features on a web application using HTML, CSS, Javascript, ASP 3.0, and SQL Server for an IBM partner in Brazil. After that, I worked in a software house, developing many different web applications using technologies like HTML, CSS, Javascript, ASP.net, C#, SQL Server, and PHP for a big telecommunication company. 
-
-I also worked for six years in the biggest governmental software company in Latin America, developing several graphical interfaces for web sites and web applications using HTML, CSS, Javascript, and jQuery. 
-
-I additionally was co-founder and CTO in an Edutech Startup in Brazil. In that company I used HTML, CSS, Javascript, jQuery, Backbone, Ruby on Rails and PostgreSQL to develop an educational web platform, leading a team of 2 developers remotely. 
-
-In the last months, I have been working remotely in a lot of different web projects, with entirely different scopes and sizes. 
+I have been working as a software developer since 2002, and have experience with a plethora of technologies ranging from ASP 3.0 to React. Although I have considerable experience as a Full Stack Developer, developing software from initial commit to deployment, I have chosen to specialize my career in Front-End Engineering. I have a passion for Open Source, UX, Design Systems, Marketing, and Jamstack technologies.
 
 ## Experience
 
