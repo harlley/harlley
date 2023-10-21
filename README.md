@@ -4,6 +4,26 @@ I have been working as a software developer since 2002, and have experience with
 
 ## Experience
 
+### **Frontend Engineer**
+#### Issuu `Dec 2021 - Present`
+
+Issuu is the world’s leading Omni-channel content tool and publishing platform. It enables millions of global marketers, brands, creators, and publishers to digitally share and monetize their longer-form quality content and create content marketing materials.
+
+##### Integrations Engineering team
+- [x] Successfully integrated the Issuu Open API with third-party partners, Canva and Adobe.
+- [x] Expertise in OAuth authentication, ensuring data security and privacy while enabling smooth data exchange between platforms.
+- [x] Proficiency in React and TypeScript, enabling the development of dynamic and responsive web applications tailored to the specific design systems of partners.
+- [x] Utilized Storybook to streamline UI component development, resulting in faster iterations.
+- [x] Collaborated effectively with cross-functional teams, including designers, product managers, and backend developers, to deliver fully functional and cohesive integrations.
+
+##### Marketing Engineering team
+- [x] Full-stack web development using modern technologies like TypeScript, React, NextJS, and NodeJS.
+- [x] Expertise in developing and maintaining landing pages and blogs using Contentful CMS.
+- [x] Experience integrating and utilizing marketing technologies like Pendo, Iterable, VWO, Typeform, Mixpanel, and Google Tag Manager to optimize user engagement, increase conversion, and track analytics.
+- [x] Adept at collaborating with cross-functional teams, including product managers, designers, and marketers, to deliver high-quality software solutions that align with business goals.
+- [x] Proven ability to implement best practices in software development, including code reviews, unit testing, and continuous integration/continuous deployment (CI/CD) pipelines.
+
+
 ### **Software Engineer, Remote**
 #### Independent Contractor `Jan 2019 - Present`
 
