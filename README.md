@@ -31,8 +31,7 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 ### **Freelance Software Engineer**
 #### Independent Contractor `January 2017 - December 2020`
 
-- [x] Coded new features on the Jamstack marketing website connected to Contentful CMS (HTML, CSS, Javascript, React, and Gatsby).
-- [x] Developed new features (frontend and backend) using Ruby on Rails, PostgreSQL, and GraphQL in a remote scrum team using tools like Slack, Jira, and Github.
+- [x] Coded new features on the Jamstack marketing website connected to Contentful CMS (HTML, CSS, JavaScript, React, and Gatsby).
 - [x] Developed new features (frontend and backend) using Ruby on Rails framework and PostgreSQL database in a remote scrum team using tools like Slack, Jira, Github, and Jenkins.
 - [x] Wrote automated unit tests (TDD) using Rspec and factory_bot.
 - [x] Transformed static design mockups into fully functional web interfaces using HTML5, CSS, JavaScript ES6, and Vue JS.
@@ -43,7 +42,7 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 #### Beved `January 2013 - December 2016`
 
 - [x] Coded a brand-new responsive user interface using HTML5, CSS3, and JavaScript.
-- [x] Developed new features using Ruby on Rails, PostgreSQL, Action Mailer, Sendgrid, Sidekiq, and integration with Paypal.
+- [x] Developed new features using Ruby on Rails, PostgreSQL, Action Mailer, Sendgrid, Sidekiq, and integration with PayPal.
 - [x] Led a team of 2 remote programmers to create a new B2B product.
 - [x] Migrated all infrastructure from Heroku to AWS using Nginx as a reverse proxy, Puma server on EC2 instances, and PostgreSQL on RDS to reduce hosting costs.
 
