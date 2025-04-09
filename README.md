@@ -1,4 +1,4 @@
-# Harlley Oliveira - Senior Software Engineer
+# Harlley Oliveira - Senior Fullstack Engineer
 
 I'm a Senior Software Engineer passionate about building high-performance, user-centric web applications. With extensive experience in React, TypeScript, Next.js, and design systems, I specialize in crafting scalable UI architectures that enhance usability, maintainability, and developer experience.
 
@@ -14,7 +14,7 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 - [x] Contributed to the development of a new Digital Experience Platform (DXP) for a major European telecommunications company, utilizing Storyblok CMS, React, TypeScript, and Next.js.
 - [x] Played a key role in the implementation and maintenance of the company's Design System and Storybook.
 
-### **Senior Software Engineer**
+### **Senior Fullstack Engineer**
 #### Issuu `December 2021 - September 2024`
 
 - [x] Successfully integrated the Issuu Open API with third-party partners like Canva and Adobe, enabling seamless workflows for content creators. The Canva integration alone generated over $100,000 in new customer subscriptions within the first few months.
@@ -28,7 +28,7 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 - [x] Developed a feature-rich white-label SaaS platform for the European financial industry, employing React and TypeScript to build a modular and testable front end.
 - [x] Designed and implemented complex user interfaces, integrating data through API interactions and ensuring code quality through rigorous unit testing.
 
-### **Freelance Software Engineer**
+### **Senior Fullstack Engineer**
 #### Independent Contractor `January 2017 - December 2020`
 
 - [x] Coded new features on the Jamstack marketing website connected to Contentful CMS (HTML, CSS, JavaScript, React, and Gatsby).
@@ -38,7 +38,7 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 - [x] Planned and produced video lessons for paid courses and a YouTube channel with more than 69k subscribers at youtube.com/playcode.
 - [x] Mentored computer science students to prepare them to start in the tech market.
 
-### **Full Stack Engineer (co-founder)**
+### **Senior Fullstack Engineer (co-founder)**
 #### Beved `January 2013 - December 2016`
 
 - [x] Coded a brand-new responsive user interface using HTML5, CSS3, and JavaScript.
