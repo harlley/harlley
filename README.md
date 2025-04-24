@@ -1,4 +1,4 @@
-# Harlley Oliveira - Senior Fullstack Engineer
+# Harlley Oliveira - Senior Full-Stack Engineer
 
 I'm a Senior Software Engineer passionate about building high-performance, user-centric web applications. With extensive experience in React, TypeScript, Next.js, and design systems, I specialize in crafting scalable UI architectures that enhance usability, maintainability, and developer experience.
 
@@ -14,21 +14,21 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 - [x] Contributed to the development of a new Digital Experience Platform (DXP) for a major European telecommunications company, utilizing Storyblok CMS, React, TypeScript, and Next.js.
 - [x] Played a key role in the implementation and maintenance of the company's Design System and Storybook.
 
-### **Senior Fullstack Engineer**
+### **Senior Full-Stack Engineer**
 #### Issuu `December 2021 - September 2024`
 
 - [x] Successfully integrated the Issuu Open API with third-party partners like Canva and Adobe, enabling seamless workflows for content creators. The Canva integration alone generated over $100,000 in new customer subscriptions within the first few months.
 - [x] Utilized Storybook to develop a scalable, reusable UI component library, improving design consistency and developer efficiency.
 - [x] Integrated marketing technologies like Pendo, Iterable, VWO, Contentful CMS, and Mixpanel to optimize user engagement, track analytics, SEO, and enhance user retention strategies.
 
-### **Senior Frontend Engineer**
+### **Senior Front-End Engineer**
 #### Mindera `December 2020 - December 2021`
 
 - [x] Collaborated on the implementation of a design system for a large-scale online entertainment company in North America, ensuring compatibility between web and mobile using React Native.
 - [x] Developed a feature-rich white-label SaaS platform for the European financial industry, employing React and TypeScript to build a modular and testable front end.
 - [x] Designed and implemented complex user interfaces, integrating data through API interactions and ensuring code quality through rigorous unit testing.
 
-### **Senior Fullstack Engineer**
+### **Senior Full-Stack Engineer**
 #### Independent Contractor `January 2017 - December 2020`
 
 - [x] Coded new features on the Jamstack marketing website connected to Contentful CMS (HTML, CSS, JavaScript, React, and Gatsby).
@@ -38,7 +38,7 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 - [x] Planned and produced video lessons for paid courses and a YouTube channel with more than 69k subscribers at youtube.com/playcode.
 - [x] Mentored computer science students to prepare them to start in the tech market.
 
-### **Senior Fullstack Engineer (co-founder)**
+### **Senior Full-Stack Engineer (co-founder)**
 #### Beved `January 2013 - December 2016`
 
 - [x] Coded a brand-new responsive user interface using HTML5, CSS3, and JavaScript.
@@ -46,7 +46,7 @@ I thrive in environments where engineers have ownership and contribute beyond ju
 - [x] Led a team of 2 remote programmers to create a new B2B product.
 - [x] Migrated all infrastructure from Heroku to AWS using Nginx as a reverse proxy, Puma server on EC2 instances, and PostgreSQL on RDS to reduce hosting costs.
 
-### **Frontend Developer**
+### **Front-End Developer**
 #### Serpro `February 2006 - December 2012`
 
 - [x] Applied heuristic evaluation to redesign a Java desktop software used by +20 million Brazilians to declare their income to the federal government.
