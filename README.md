@@ -1,12 +1,19 @@
-# Harlley Oliveira - Senior Full-Stack Engineer
+# Harlley Oliveira - Senior Software Engineer
 
-I'm a Senior Software Engineer passionate about building high-performance, user-centric web applications. With extensive experience in React, TypeScript, Next.js, and design systems, I specialize in crafting scalable UI architectures that enhance usability, maintainability, and developer experience.
+I'm a Senior Software Engineer passionate about building high-performance, user-centric web applications. With extensive experience in React, TypeScript, Node.js, and Python, I specialize in designing scalable UI architectures that optimize usability, maintainability, and the developer experience.
 
-Over the years, I've worked on everything from design systems to complex integrations, leading front-end initiatives at startups and high-growth companies. At Issuu, I played a key role in developing seamless integrations with platforms like Canva, Adobe, and HubSpot, helping drive both user engagement and revenue. Prior to that, I founded my own startup, which gave me a deep appreciation for product thinking, user experience, and the intersection of engineering and business strategy.
+Over the years, I’ve worked on everything from design systems to complex integrations, leading front-end initiatives at both startups and high-growth companies. At Issuu, I played a key role in developing seamless integrations with platforms like Canva, Adobe, and HubSpot—helping drive user engagement and revenue growth. Before that, I founded my own startup, which deepened my appreciation for product thinking, user experience, and the intersection of engineering and business strategy.
 
-I thrive in environments where engineers have ownership and contribute beyond just writing code—collaborating closely with designers, refining UX, and ensuring performance at scale. Always eager to learn and share knowledge, I'm open to connecting and collaborating on projects that push the boundaries of software development.
+I’m now channeling that experience into AI Engineering, designing agent workflows, integrating large language models, and building practical prototypes. I focus on reliability, data flow, and delivering clear user value, bridging traditional software engineering with emerging intelligent capabilities.
+
+I thrive in environments where engineers take ownership and contribute beyond code: collaborating with designers, refining user experiences, and ensuring performance at scale. Eager to learn, share knowledge, and build what’s next, I’m open to connecting and collaborating on projects that push the boundaries of modern software development.
 
 ## Experience
+
+### AI Engineer in Training | Self-learner
+- [ ] Reading "AI Engineering" by Chip Huyen
+- [ ] Reading "AI Agents in Practice" by Valentina Alto
+- [x] Project: [CopilotKit + LangGraph demo showing an AI agent that reads and controls frontend state in real time](https://github.com/harlley/copilotkit) 
 
 ### **Senior Software Engineer**
 #### Ascent `October 2024 - Present`
