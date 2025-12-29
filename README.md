@@ -14,6 +14,7 @@ I thrive in environments where engineers take ownership and contribute beyond co
 - [ ] Reading "AI Engineering" by Chip Huyen
 - [ ] Reading "AI Agents in Practice" by Valentina Alto
 - [x] Project: [CopilotKit + LangGraph demo showing an AI agent that reads and controls frontend state in real time](https://github.com/harlley/copilotkit) 
+- [x] Project: [Basic Agentic UI built with React, Transformers.js and FunctionGemma model](https://huggingface.co/spaces/harlley/basic-agentic-ui) 
 
 ### **Senior Software Engineer**
 #### Ascent `October 2024 - Present`
