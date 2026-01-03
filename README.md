@@ -10,7 +10,7 @@ I thrive in environments where engineers take ownership and contribute beyond co
 
 ## Experience
 
-### AI Engineer in Training | Self-learner
+### AI Product Engineer in training | Self-learner
 - [ ] Reading "AI Engineering" by Chip Huyen
 - [ ] Reading "AI Agents in Practice" by Valentina Alto
 - [x] Project: [CopilotKit + LangGraph demo showing an AI agent that reads and controls frontend state in real time](https://github.com/harlley/copilotkit) 
