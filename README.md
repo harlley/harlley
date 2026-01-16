@@ -1,24 +1,16 @@
 # Harlley Oliveira - Senior Software Engineer
 
-I'm a Senior Software Engineer passionate about building high-performance, user-centric web applications. With extensive experience in React, TypeScript, Node.js, and Python, I specialize in designing scalable UI architectures that optimize usability, maintainability, and the developer experience.
+Software Engineer with extensive experience in React, TypeScript, Node.js, and Python. Passionate about building high-performance, user-centric web applications with scalable UI architectures. Currently focused on AI Engineering, designing agent workflows, integrating LLMs, and building practical prototypes that bridge traditional software engineering with emerging AI capabilities.
 
-Over the years, I’ve worked on everything from design systems to complex integrations, leading front-end initiatives at both startups and high-growth companies. At Issuu, I played a key role in developing seamless integrations with platforms like Canva, Adobe, and HubSpot—helping drive user engagement and revenue growth. Before that, I founded my own startup, which deepened my appreciation for product thinking, user experience, and the intersection of engineering and business strategy.
-
-I’m now channeling that experience into AI Engineering, designing agent workflows, integrating large language models, and building practical prototypes. I focus on reliability, data flow, and delivering clear user value, bridging traditional software engineering with emerging intelligent capabilities.
-
-I thrive in environments where engineers take ownership and contribute beyond code: collaborating with designers, refining user experiences, and ensuring performance at scale. Eager to learn, share knowledge, and build what’s next, I’m open to connecting and collaborating on projects that push the boundaries of modern software development.
+## AI Projects
+- [x] [Browser-based agentic interface running FunctionGemma model entirely client-side via WebGPU acceleration](https://huggingface.co/spaces/harlley/basic-agentic-ui)
+- [x] [CopilotKit + LangGraph demo showing an AI agent that reads and controls frontend state in real time](https://github.com/harlley/copilotkit)
 
 ## Experience
 
-### AI Product Engineer in training | Self-learner
-- [ ] Reading "AI Engineering" by Chip Huyen
-- [ ] Reading "AI Agents in Practice" by Valentina Alto
-- [x] Project: [CopilotKit + LangGraph demo showing an AI agent that reads and controls frontend state in real time](https://github.com/harlley/copilotkit) 
-- [x] Project: [Basic Agentic UI built with React, Transformers.js and FunctionGemma model](https://huggingface.co/spaces/harlley/basic-agentic-ui) 
-
 ### **Senior Software Engineer**
 #### Ascent `October 2024 - Present`
-
+- [ ] Building a data labeling platform used by ML teams worldwide, with TypeScript, React, and Tailwind CSS on the frontend, and Python with FastAPI on the backend. Contributing to the Python SDK used by machine learning professionals for programmatic data labeling workflows.
 - [x] Contributed to the development of a new Digital Experience Platform (DXP) for a major European telecommunications company, utilizing Storyblok CMS, React, TypeScript, and Next.js.
 - [x] Played a key role in the implementation and maintenance of the company's Design System and Storybook.
 
